@@ -1,2 +1,2 @@
 # Quantum Image processing
-hackathon 
+ cdl hackathon 2020 
